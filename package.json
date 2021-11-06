@@ -1,0 +1,12 @@
+{
+  "name": "ipfs-core-min",
+  "version": "0.0.2",
+  "description": "redirect to minified/bundled index.min.js of ipfs-core",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "peerDependencies": {
+    "ipfs-core": "*"
+  },
+  "author": "PastLeo",
+  "license": "ISC"
+}
